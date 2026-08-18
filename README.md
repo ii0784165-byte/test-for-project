@@ -273,7 +273,7 @@ Then open a pull request on GitHub and request a review from a teammate.
 
 **No License.** This repository does not include an open-source license.
 
-This means all rights are reserved by the authors — no one else may copy, modify, distribute, or use this code without explicit permission. Unlike MIT or other permissive licenses, "No License" does **not** grant any usage rights by default.
+This means all rights are reserved by the authors
 
 ---
 
