@@ -273,7 +273,7 @@ Then open a pull request on GitHub and request a review from a teammate.
 
 **No License.** This repository does not include an open-source license.
 
-This means all rights are reserved by the authors
+All rights are reserved by the authors
 
 ---
 
